@@ -1,0 +1,9 @@
+[package]
+authors = ["J David Smith <emallson@atlanis.net>"]
+name = "petgraph-arbsmall"
+version = "0.1.0"
+
+[dependencies]
+petgraph = "0.4.3"
+quickcheck = "0.4.1"
+rand = "0.3.15"
